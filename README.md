@@ -55,7 +55,7 @@ The module takes a discrete heart rate signal and outputs time-domain and freque
 Time domain:
 * beats per minute, BPM
 * interbeat interval, IBI
-* standard deviation  if intervals between adjacent beats, SDNN
+* standard deviation of intervals between adjacent beats, SDNN
 * standard deviation of successive differences between adjacent R-R intervals, SDSD
 * root mean square of successive differences between adjacend R-R intervals, RMSSD
 * proportion of differences between R-R intervals greater than 20ms, 50ms, pNN20, pNN50
